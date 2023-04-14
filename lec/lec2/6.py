@@ -15,4 +15,4 @@ colors.discard('red') # ok
 colors.clear()
 print(colors)
 
-q=set() #-строка
+q=set() #-строка  (преобразовать в множество из строки например)
